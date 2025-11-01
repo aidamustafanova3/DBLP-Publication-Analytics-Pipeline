@@ -1,5 +1,10 @@
 # DBLP Publication Analytics Pipeline  
 
+## 📄 Project Report
+Full presentation and insights can be found in the PDF below:  
+👉 [View DBLP Project Report](./DBLP_Project_Report.pdf)
+
+
 A full data analytics pipeline built with **PostgreSQL** to analyze global research publication trends using the **DBLP Computer Science Bibliography** dataset.  
 
 ## 📘 Overview  
