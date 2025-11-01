@@ -2,7 +2,7 @@
 
 ## 📄 Project Report
 Full presentation and insights can be found in the PDF below:  
-👉 [View DBLP Project Report](./[DBLP_Project_Report.pdf](https://www.canva.com/design/DAG3aZi6T-I/WAgPNNElLhgKELQO5TnSUQ/edit?utm_content=DAG3aZi6T-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+👉 https://www.canva.com/design/DAG3aZi6T-I/WAgPNNElLhgKELQO5TnSUQ/edit?utm_content=DAG3aZi6T-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 A full data analytics pipeline built with **PostgreSQL** to analyze global research publication trends using the **DBLP Computer Science Bibliography** dataset.  
